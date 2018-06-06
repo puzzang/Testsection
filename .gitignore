@@ -1,0 +1,6 @@
+# 폴더 제외
+ignore_folder/
+# 확장자 제외
+*.Show
+# 파일 제외
+trash1.txt
